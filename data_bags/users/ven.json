@@ -3,5 +3,6 @@
     "groups": ["sysadmin"],
     "uid": 2001,
     "shell": "/bin/bash",
-    "comment": "Ven"
+    "comment": "Ven",
+    "ssh_keys": ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCtcjmWqacYc98BN+1UsvN9j9Ce4Y7i5qP4vIqRnz1CPOTQlCeGDbbWxoU3eW2McUjYyFDBU07xXDSLVkedafNzFFVCbEz1AZpufaPwNUJgxn7lTbtAUMwDLdYEGImrUeXrdUAAuJWVVipMR1bCYQh1vL+F4z4ak24db8Zbsgk5BAIbvXnT7dAIuwBIgIi/d8UZN0jb80HjMK149GNjoSPosUUPrSPi+j2BwCYnY8qcoi2Re9nxP8IF+Z31iAQDeK1IW0TTjyTwB+8gIvj/VyQejgCqaqUY1C+q40x7AAkMx0qI1i7RGqIe4Mk95bNAmvrZGJtYchNbPqynq53L1I7J vvenkat@rainbowdash-lm.local"]
 }
